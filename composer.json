@@ -1,0 +1,17 @@
+{
+    "name": "joko/hello-world",
+    "description": "Training composer",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joko Susilo",
+            "email": "joko.susilo@sirclo.com"
+        }
+    ]
+}
