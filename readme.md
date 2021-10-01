@@ -2,11 +2,10 @@
 
 This is a hello world package for php composer. Training-composer
 
-## Usage ##
+## How to use ##
 
 ```bash
 $ composer require joko-icube/hello-world
-
 $ nano test.php
 ```
 
