@@ -1,6 +1,9 @@
 {
-    "name": "joko/hello-world",
+    "name": "joko-icube/hello-world",
     "description": "Training composer",
+    "autoload": {
+        "psr-4": { "Joko\\Demo\\": "src" }
+    },
     "require": {
         "php": ">=7.4"
     },
