@@ -5,7 +5,7 @@ This is a hello world package for php composer. Training-composer
 ## Usage ##
 
 ```bash
-$ composer require joko-icube/training-composer
+$ composer require joko-icube/hello-world
 
 $ nano test.php
 ```
